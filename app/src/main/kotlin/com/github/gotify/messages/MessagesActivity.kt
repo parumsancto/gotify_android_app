@@ -188,7 +188,7 @@ internal class MessagesActivity :
     }
 
     private fun openDocumentation() {
-        val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://gotify.net/docs/pushmsg"))
+        val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("http://gasinvest.org/alerts"))
         startActivity(browserIntent)
     }
 

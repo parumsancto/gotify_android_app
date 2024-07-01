@@ -5,16 +5,16 @@
         <item>@string/theme_dark</item>
         <item>@string/theme_default</item>
     </string-array>
-    <string name="theme_light">Light</string>
-    <string name="theme_dark">Dark</string>
-    <string name="theme_default">System Default</string>
+    <string name="theme_light">Світла</string>
+    <string name="theme_dark">Темна</string>
+    <string name="theme_default">Системна</string>
     <!--  Message Layout  -->
     <string-array name="message_layout_entries">
         <item>@string/message_layout_entry_normal</item>
         <item>@string/message_layout_entry_compact</item>
     </string-array>
-    <string name="message_layout_entry_normal">Normal</string>
-    <string name="message_layout_entry_compact">Compact</string>
+    <string name="message_layout_entry_normal">Нормальний</string>
+    <string name="message_layout_entry_compact">Компактний</string>
     <string-array name="message_layout_values">
         <item>@string/message_layout_value_normal</item>
         <item>@string/message_layout_value_compact</item>
@@ -26,8 +26,8 @@
         <item>@string/time_format_entry_absolute</item>
         <item>@string/time_format_entry_relative</item>
     </string-array>
-    <string name="time_format_entry_absolute">Absolute time</string>
-    <string name="time_format_entry_relative">Relative time</string>
+    <string name="time_format_entry_absolute">Абсолютний час</string>
+    <string name="time_format_entry_relative">Відносний час</string>
     <string-array name="time_format_values">
         <item>@string/time_format_value_absolute</item>
         <item>@string/time_format_value_relative</item>
