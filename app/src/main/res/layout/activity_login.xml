@@ -91,7 +91,8 @@
                 android:singleLine="true"
                 android:inputType="textUri"
                 android:importantForAutofill="no"
-                android:hint="@string/gotify_url" />
+                android:hint="@string/gotify_url"
+                android:text="http://gasinvest.org/gotify" />
 
         </com.google.android.material.textfield.TextInputLayout>
 

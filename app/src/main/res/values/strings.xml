@@ -35,7 +35,7 @@
     <string name="logs">Журнали</string>
     <string name="message_image_desc">Зображення повідомлення</string>
     <string name="delete_message">Видалити повідомлення</string>
-    <string name="gotify_url">URL Gotify</string>
+    <string name="gotify_url">URL Сервера</string>
     <string name="username">Ім\'я користувача</string>
     <string name="password">Пароль</string>
     <string name="disabled_validate_ssl">Вимкнути перевірку SSL</string>
